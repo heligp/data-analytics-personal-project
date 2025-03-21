@@ -1,0 +1,7 @@
+.dashboard {
+    padding: 20px;
+  }
+  
+  .stats-container, .chart-container {
+    margin-bottom: 30px;
+  }

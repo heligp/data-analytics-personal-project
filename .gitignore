@@ -1,0 +1,31 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar el entorno virtual de Python
+venv/
+.env/
+
+# Ignorar archivos de configuración local
+.env
+.env.local
+.env.development
+.env.production
+
+# Ignorar archivos generados automáticamente
+dist/
+build/
+.cache/
+*.log
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar package-lock.json (opcional)
+# package-lock.json
+
+# Ignorar archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
