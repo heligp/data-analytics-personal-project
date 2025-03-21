@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/data-analytics-personal-project/static/css/main.240d756b.css",
+    "main.js": "/data-analytics-personal-project/static/js/main.89653ff3.js",
+    "index.html": "/data-analytics-personal-project/index.html",
+    "main.240d756b.css.map": "/data-analytics-personal-project/static/css/main.240d756b.css.map",
+    "main.89653ff3.js.map": "/data-analytics-personal-project/static/js/main.89653ff3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240d756b.css",
+    "static/js/main.89653ff3.js"
+  ]
+}
