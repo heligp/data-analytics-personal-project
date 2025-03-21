@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000/api',
+  baseUrl : 'https://heligp.pythonanywhere.com',
 });
 
 export default api;
