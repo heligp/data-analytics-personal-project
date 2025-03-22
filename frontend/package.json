@@ -2,7 +2,7 @@
     "name": "data-analytics-frontend",
     "version": "1.0.0",
     "private": true,
-    "homepage": "https://tu_usuario.github.io/data-analytics-personal-project",
+    "homepage": "https://heligp.github.io/data-analytics-personal-project",
     "dependencies": {
         "axios": "^1.3.4",
         "react": "^18.2.0",
